@@ -107,7 +107,7 @@ $students = $student->read();
 
 </body>
 </html>
-=======
+
 use akol\StudentManagement\Core\Database;
 use Akol\StudentManagement\Model\StudentModel;
 
@@ -118,4 +118,5 @@ include 'vendor/autoload.php';
 $students = new StudentModel;
 $students  = $student->read();
 var_dump($students);
->>>>>>> 24c449be0271505643dc59507ac79f6075518f84
+
+
