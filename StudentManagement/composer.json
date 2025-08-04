@@ -1,0 +1,16 @@
+{
+    "name": "akol/student-management",
+    "description": "basic student",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Akol\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lourd ian"
+        }
+    ],
+    "require": {}
+}
